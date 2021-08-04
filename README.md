@@ -19,10 +19,11 @@ Currently improving skills in machine learning, deep learning, and data analysis
 Feel free to connect! 
   
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/rifqinvnd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqinvnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqinvnd&layout=compact&langs_count=8&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rifqinvnd&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/rifqinvnd">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqinvnd&layout=compact&theme=great-gatsby" />
 </a>
 </p>
- 
