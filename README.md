@@ -1,6 +1,6 @@
 # Hello, people of the internet! 
 
-I'm **Gilang Ramadhan**.\
+I'm **Rifqi Novandi**.\
 
 I'm currently wokring on myself to be a **Data Scientist and Machine Learning Developer**
 
