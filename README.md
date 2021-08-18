@@ -17,13 +17,3 @@ Currently improving skills in machine learning, deep learning, and data analysis
 [![Linkedin](https://img.shields.io/badge/-rifqinvnd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifqinvnd/)](https://www.linkedin.com/in/rifqinvnd/) 
 
 Feel free to connect! 
-  
-### Github Statistic
-<p align="center">
-<a href="https://github.com/rifqinvnd">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rifqinvnd&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/rifqinvnd">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqinvnd&layout=compact&theme=great-gatsby" />
-</a>
-</p>
