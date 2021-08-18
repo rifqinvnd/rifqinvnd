@@ -14,6 +14,6 @@ Currently improving skills in machine learning, deep learning, and data analysis
 
 ### Find me elsewhere 🌎
 
-[![Linkedin](https://img.shields.io/badge/-rifqinvnd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifqinvnd/)](https://www.linkedin.com/in/rifqinvnd/) 
+[![Linkedin](https://img.shields.io/badge/-rifqi-novandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifqi-novandi/)](https://www.linkedin.com/in/rifqi-novandi/) 
 
 Feel free to connect! 
