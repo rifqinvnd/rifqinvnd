@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, people of the internet! 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
+Hello, people of the internet! 
 
 I'm **Rifqi Novandi**.
 
