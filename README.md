@@ -4,15 +4,9 @@ Hello, people of the internet!
 
 I'm **Rifqi Novandi**.
 
-I currently focus my study on **Data Science and Machine Learning** to bound with data and love to solve a problem with data! I enjoyed doing data science using Python and also can used SQL for querying data in databases.
+I am an undergraduate student specializing in information technology with several experiences in data science and predictive modeling using Python. I implemented an end-to-end data science flow and developed machine learning solutions for personal projects and company as well while doing an internship. 
 
-I've completed IBM Data Science Professional Certificate in Coursera so I have the foundation of doing such a things.
-Here's my certificate: 
-[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/DLJ5WMHCZMAK).
-
-### What I'm focusing on 🧑‍💻⚡️
-
-Currently improving skills in machine learning, deep learning, and data analysis <br />
+I am passionate about exploring new technology to expand working tools to help me deliver my work as best as it can be. To achieve my goals, I am always eager to learn new things and develop myself professionally. I am currently looking for an internship to demonstrate my ability to solve real-world cases.
 
 ### Find me elsewhere 🌎
 
