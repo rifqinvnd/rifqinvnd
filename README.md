@@ -8,7 +8,7 @@ I am passionate about exploring new technology to expand working tools to help m
 
 ##### BIO
 
-- ⚙️ I use daily: `.ipynb`, `.py`
-- 🌱 Learning all about **Data Science, Machine Learning, and AI**
-- 📫 Reach me: [linkedin.com/in/rifqi-novandi](https://linkedin.com/in/rifqi-novandi)
+- ⚙️ I use daily: `.py`, `.ipynb`
+- 🌱 Learning all about **AI, Machine Learning, and Data Science**
+- 📫 Reach me: [linkedin.com/in/rifqinovandi](https://linkedin.com/in/rifqinovandi)
 - ⚡️ Check my *pinned repositories* below for some cool projects
